@@ -1,0 +1,102 @@
+[2018-05-03 13:51:00][1109] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1109] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1110] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1110] Failed:     App\Jobs\ProcessContent[2018-05-03 13:51:00][1111] Processing: App\Jobs\ProcessContent
+
+[2018-05-03 13:51:00][1111] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1111] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1112] Processing: App\Jobs\ProcessContent[2018-05-03 13:51:00][1112] Processing: App\Jobs\ProcessContent
+
+[2018-05-03 13:51:00][1111] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1113] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1112] Failed:     App\Jobs\ProcessContent[2018-05-03 13:51:00][1114] Processing: App\Jobs\ProcessContent
+
+[2018-05-03 13:51:00][1112] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1113] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1115] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1114] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1116] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1117] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1117] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1116] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1118] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1117] Failed:     App\Jobs\ProcessContent[2018-05-03 13:51:00][1117] Failed:     App\Jobs\ProcessContent
+
+[2018-05-03 13:51:00][1119] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1118] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1120] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1120] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1120] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:00][1120] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1121] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1120] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1120] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1120] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1122] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1120] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1121] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1123] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1123] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1122] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1123] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1124] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1124] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1125] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1124] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1124] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:51:01][1125] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:52:31][1115] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:52:31][1119] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:52:31][1123] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:52:31][1123] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:52:31][1123] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:52:31][1123] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:54:02][1119] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:54:02][1115] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:54:02][1119] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:55:14][1126] Processing: App\Events\UserSearch
+[2018-05-03 13:55:14][1126] Processed:  App\Events\UserSearch
+[2018-05-03 13:55:32][1115] Processing: App\Jobs\ProcessContent
+[2018-05-03 13:55:32][1115] Failed:     App\Jobs\ProcessContent
+[2018-05-03 13:59:45][1127] Processing: App\Events\UserSearch
+[2018-05-03 13:59:45][1127] Processed:  App\Events\UserSearch
+[2018-05-03 14:09:43][1128] Processing: App\Events\UserSearch
+[2018-05-03 14:09:43][1128] Processing: App\Events\UserSearch
+[2018-05-03 14:09:43][1128] Processed:  App\Events\UserSearch
+[2018-05-03 14:09:44][1128] Processed:  App\Events\UserSearch
+[2018-05-03 14:11:08][1129] Processing: App\Events\UserSearch
+[2018-05-03 14:11:08][1129] Processed:  App\Events\UserSearch
+[2018-05-03 14:12:37][1130] Processing: App\Events\UserSearch
+[2018-05-03 14:12:37][1130] Processing: App\Events\UserSearch[2018-05-03 14:12:37][1130] Processed:  App\Events\UserSearch
+
+[2018-05-03 14:12:37][1130] Processed:  App\Events\UserSearch
+[2018-05-03 18:14:54][1131] Processing: App\Events\UserSearch
+[2018-05-03 18:14:54][1131] Processing: App\Events\UserSearch
+[2018-05-03 18:14:54][1131] Processed:  App\Events\UserSearch
+[2018-05-03 18:14:54][1131] Processing: App\Events\UserSearch
+[2018-05-03 18:14:54][1131] Processed:  App\Events\UserSearch
+[2018-05-03 18:14:54][1131] Processed:  App\Events\UserSearch
+[2018-05-03 18:17:23][1132] Processing: App\Events\UserSearch
+[2018-05-03 18:17:24][1132] Processed:  App\Events\UserSearch
+[2018-05-03 18:17:57][1133] Processing: App\Events\UserSearch
+[2018-05-03 18:17:57][1133] Processed:  App\Events\UserSearch
+[2018-05-03 18:20:39][1134] Processing: App\Events\UserSearch
+[2018-05-03 18:20:39][1134] Processed:  App\Events\UserSearch
+[2018-05-03 18:21:24][1135] Processing: App\Events\UserSearch
+[2018-05-03 18:21:24][1135] Processed:  App\Events\UserSearch
+[2018-05-03 18:28:22][1136] Processing: App\Events\UserSearch
+[2018-05-03 18:28:22][1136] Processed:  App\Events\UserSearch
+[2018-05-03 18:30:24][1137] Processing: App\Events\UserSearch
+[2018-05-03 18:30:24][1137] Processed:  App\Events\UserSearch
+[2018-05-03 18:32:05][1138] Processing: App\Events\UserSearch
+[2018-05-03 18:32:05][1138] Processed:  App\Events\UserSearch
+[2018-05-03 18:38:47][1139] Processing: App\Events\UserSearch[2018-05-03 18:38:47][1139] Processing: App\Events\UserSearch
+
+[2018-05-03 18:38:47][1139] Processed:  App\Events\UserSearch[2018-05-03 18:38:47][1139] Processed:  App\Events\UserSearch
+
+[2018-05-03 18:58:28][1140] Processing: App\Events\UserSearch[2018-05-03 18:58:28][1140] Processing: App\Events\UserSearch
+
+[2018-05-03 18:58:28][1140] Processed:  App\Events\UserSearch[2018-05-03 18:58:28][1140] Processed:  App\Events\UserSearch
+
+[2018-05-03 18:59:10][1141] Processing: App\Events\UserSearch
+[2018-05-03 18:59:10][1141] Processed:  App\Events\UserSearch
