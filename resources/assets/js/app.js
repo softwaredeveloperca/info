@@ -9,6 +9,20 @@ require('./bootstrap');
 
 window.Vue = require('vue');
 
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+
+
+library.add(faCoffee)
+
+Vue.component('font-awesome-icon', FontAwesomeIcon)
+
+Vue.config.productionTip = false
+
+import VueNestable from 'vue-nestable'
+
+Vue.use(VueNestable)
 /**
  * Next, we will create a fresh Vue application instance and attach it to
  * the page. Then, you may begin adding components to this application
@@ -17,6 +31,13 @@ window.Vue = require('vue');
 
 Vue.component('example-component', require('./components/ExampleComponent.vue'));
 Vue.component('moviegame-component', require('./components/MoviegameComponent.vue'));
+Vue.component('leaderboard-component', require('./components/LeaderboardComponent.vue'));
+Vue.component('main-component', require('./components/MainComponent.vue'));
+Vue.component('home-component', require('./components/HomeComponent.vue'));
+Vue.component('schedule-component', require('./components/ScheduleComponent.vue'));
+Vue.component('movies-component', require('./components/MoviesComponent.vue'));
+Vue.component('stations-component', require('./components/StationsComponent.vue'));
+
 
 const app = new Vue({
     el: '#app'
@@ -30,10 +51,9 @@ const app = new Vue({
 
 document.addEventListener('DOMContentLoaded', function () {
     // Get all "navbar-burger" elements
-    console.log('before');
+    
     const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-    console.log('sdd2');
-    console.log($navbarBurgers);
+   
     
     // Check if there are any navbar burgers
     if ($navbarBurgers.length > 0) {

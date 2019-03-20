@@ -27,6 +27,18 @@ class User extends Authenticatable
         'password', 'remember_token',
     ];
 /*
+protected $appends = ['money', 'fans'];
+	 public function getMoneyAttribute()
+{
+    return 1000; //or however you want to manipulate it
+}
+
+
+	 public function getFansAttribute()
+{
+    return 10000; //or however you want to manipulate it
+}
+
 	public function moviegame()
 	{
 		return $this->hasOne('App\MovieGame', 'id',  'movie_game_id');

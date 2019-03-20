@@ -25,8 +25,15 @@ Route::get('/site/category/{Category}', 'SiteController@category')->name('catego
 Route::get('/home/event', 'HomeController@event')->name('event');
 
 Route::get('/home/moviegame', 'MovieGameController@index')->name('moviegame');
-Route::get('/home/moviegame/join', 'MovieGameController@join')->name('joinmoviegame');
-Route::post('/home/moviegame/test', 'MovieGameController@test')->name('testmoviegame');
+Route::get('/home/moviegame/join/{numPlayers}', 'MovieGameController@join')->name('joinmoviegame');
+Route::get('/home/moviegame/leave', 'MovieGameController@leave')->name('leavemoviegame');
+Route::get('/home/moviegame/info', 'MovieGameController@info')->name('infomoviegame');
+Route::get('/home/moviegame/endTurn', 'MovieGameController@endTurn')->name('endturnmoviegame');
+
+
+Route::get('/home/moviegame/station', 'MovieGameController@station')->name('stationmoviegame');
+Route::get('/home/moviegame/movies', 'MovieGameController@movies')->name('moviesmoviegame');
+Route::get('/home/moviegame/schedule', 'MovieGameController@schedule')->name('schedulemoviegame');
 
 
 Route::post('/home/chat/message', 'HomeController@createChatMessage')->name('createChatMessage');
